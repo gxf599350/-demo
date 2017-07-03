@@ -1,0 +1,31 @@
+{
+	"index.html": {
+		"resources": [
+			"img/4.jpg",
+			"css/style.css",
+			"js/src/account.js",
+			"img/5.jpg",
+			"font/iconfont.js",
+			"view/mainfooter.html",
+			"font/iconfont.css",
+			"js/src/mainfooter.js",
+			"js/lib/swiper-3.4.1.min.css",
+			"js/src/radio.js",
+			"img/2.jpeg",
+			"font/iconfont.woff",
+			"js/lib/touch.js",
+			"js/lib/jq.js",
+			"js/src/book.js",
+			"view/shoes.html",
+			"js/lib/swiper-3.4.1.min.js",
+			"js/src/shoes.js",
+			"img/3.jpg",
+			"view/account.html",
+			"img/14.jpg",
+			"img/8.jpg",
+			"view/book.html",
+			"img/15.jpg",
+			"view/radio.html"
+		]
+	}
+}
